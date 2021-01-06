@@ -1,0 +1,13 @@
+.top-nav {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.nav-buttons-left-align {
+    display: flex;
+}
+
+.nav-buttons-right-align {
+    display: flex;
+}
